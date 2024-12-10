@@ -1,11 +1,3 @@
-
-![Logo](https://www.labiotech.eu/wp-content/uploads/2018/10/axovant-parkinsons-disease-motor-symptoms.jpg)
-Parkinsons Disease Physical Symptoms
-https://www.labiotech.eu/trends-news/axovant-parkinsons-disease-gene/?nab=0
-
-
-
-
 # Exploratory Data Analysis and Modeling of Parkinsons Disease Diagnosis Using Classification Algorithms 
 
 The project included an exploratory data analysis and evaluation of binary classification algorithms using Python sci-kit learn Logistic Regression, Random Forest Classification, Gradient Boosting Classification, Support Vector Machine Classifier, and KNN Classifier.  Model were trained and tested and test accuracy was compared to arrive at a final model.   
