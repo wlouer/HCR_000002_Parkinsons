@@ -36,7 +36,7 @@ The dataset includes additional data in the following categories.</p>
 
 ## Acknowledgements
 
- - The dataset was aquired form Kaggle user https://www.kaggle.com/rabieelkharoua
+ - The dataset was aquired from Kaggle user https://www.kaggle.com/rabieelkharoua
 
  
 
